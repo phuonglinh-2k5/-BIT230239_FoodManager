@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BIT230239_FoodManager</string>
+    <string name="btn_add">Add Dish</string>
+    <string name="title_list">Dish List</string>
+    <string name="search_hint">Search by dish name...</string>
+    <string name="lang_switch">Tiếng Việt</string>
+</resources>
